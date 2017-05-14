@@ -1,0 +1,41 @@
+$<expr>$ $\rightarrow$ $<term>$ $|$ $<literal>$ $|$ $<functionCall> |$ $<expr>$ 
+
+$<literal>$ $\rightarrow$ $<intLiteral> | <floatLiteral>$ 
+
+$<intLiteral> \rightarrow \{<digit>\}$
+
+$<floatLiteral> \rightarrow <decimalLiteral> | <scientificNotationLiteral>$
+
+$<decimalLiteral> \rightarrow <intLiteral>.<intLiteral>$
+
+$<scientificNotationLiteral> \rightarrow <intLiteral> (e|E) <intLiteral>$
+
+$<identifier> \rightarrow <letter> \{<digit>|<letter>\}$
+
+$<index> \rightarrow <identifier>"["(<identifier> | <intLiteral>)"]"$
+
+$<slice> \rightarrow <identifier>"["[(<identifier> | <intLiteral>)]:[(<identifier> | <identifier>)][:(<identifier> | <intLiteral>)]"]"$
+
+$<letter> \rightarrow a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z $
+
+$| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R |  S | T | U | V | W | X | Y | Z$
+
+$<digit> \rightarrow 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9$
+
+$<term>$ $\rightarrow$ $<term>$ $<addsub>$ $<expr>$ $|$ $<mult>$
+
+$<mult>$ $\rightarrow$ $<mult>$ $<multdiv>$ $<expr>$ $|$ $<pow>$
+
+$<pow>$ $\rightarrow$ $<expr>$ ** $<pow>$ $|$ $<comparison>$
+
+$<comparison>$ $\rightarrow$ $<comparison>$ $<comparisonOp>$ $<expr> | <parenthesized>$
+
+$<parenthezised> \rightarrow "("<expr>")"$
+
+$<addsub>$ $\rightarrow$ $+ | -$
+
+$<multdiv>$ $\rightarrow$ $* | $ / $ | $ // $ | \%$
+
+$<comparisonOp>$ $\rightarrow$ $== | != | "<" | "<=" | ">" | ">="$
+
+$<functionCall> \rightarrow <identifier>"("{(<identifier>|<literal>|<functionCalls>),}")"$

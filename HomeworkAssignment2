@@ -1,0 +1,21 @@
+October 5, 2015
+CSC 461 Programming Languages
+Dr. Weiss
+Benjamin Kaiser and Grant Hill
+
+Question 1
+
+<program> -> turtle {<statement>} endturtle
+<statement> -> <assign> | <method> | <delete>
+<assign> -> <var> = <expr>
+<expr> -> <constant> | <var> | <new>
+<constant> -> nullturtle
+<var> -> <letter>{<letter>}
+<letter> -> a | b | c| d | e | f | g | h | i | j | k | l| m | n | o | p | q | r | s | t | u | v | w | x | y | z
+<method> -> <new> | <delete> | <pen>
+<pen> -> pen'('up')' | pen'('down')' | pen'('<float>,<float>,<float>')'
+<new> -> new <object>
+<delete> -> delete <object>
+<object> -> <var>
+<float> -> 0.<digit>{<digit>}
+<digit> -> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9

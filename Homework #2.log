@@ -1,0 +1,1097 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.21)  5 OCT 2015 18:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Homework #2.tex"
+(./Homework #2.tex
+LaTeX2e <2011/06/27>
+Babel <3.9k> and hyphenation patterns for 2 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 $
+     <expr>$ $\rightarrow$ $<term>$ $|$ $<literal>$ $|$ $<functionCall> |$ $...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 1--2
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 expr >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 1--2
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (32.3924pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 term >$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--2
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (38.70442pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 literal >$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--2
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (69.9976pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 functionCall >
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--2
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 1--2
+\OML/cmm/m/it/10 expr >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $
+     <literal>$ $\rightarrow$ $<intLiteral> | <floatLiteral>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 3--4
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (38.70442pt too wide) in paragraph at lines 3--4
+\OML/cmm/m/it/10 literal >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 3--4
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 3--4
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 3--4
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 3--4
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (65.22649pt too wide) in paragraph at lines 3--4
+\OML/cmm/m/it/10 floatLiteral >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 $
+     <intLiteral> \rightarrow \{<digit>\}$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 5--6
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (65.38803pt too wide) in paragraph at lines 5--6
+\OML/cmm/m/it/10 intLiteral >\OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 5--6
+\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.39021pt too wide) in paragraph at lines 5--6
+\OML/cmm/m/it/10 digit >
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 5--6
+\OMS/cmsy/m/n/10 g$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 $
+     <floatLiteral> \rightarrow <decimalLiteral> | <scientificNotationLiteral>$
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 7--8
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (83.0043pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 floatLiteral >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (77.20984pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 decimalLiteral >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 7--8
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (127.02444pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 scientificNotationLiteral >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 $
+     <decimalLiteral> \rightarrow <intLiteral>.<intLiteral>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 9--10
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (94.98766pt too wide) in paragraph at lines 9--10
+\OML/cmm/m/it/10 decimalLiteral >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 9--10
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 9--10
+\OML/cmm/m/it/10 : <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 9--10
+\OML/cmm/m/it/10 intLiteral >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 $
+      <scientificNotationLiteral> \rightarrow <intLiteral> (e|E) <intLiteral>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 11--12
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (144.80226pt too wide) in paragraph at lines 11--12
+\OML/cmm/m/it/10 scientificNotationLiteral >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 
+<
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 11--12
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (33.72568pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 e\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 E\OT1/cmr
+/m/n/10 ) \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 11--12
+\OML/cmm/m/it/10 intLiteral >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 $
+      <identifier> \rightarrow <letter> \{<digit>|<letter>\}$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 13--14
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (73.5612pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10 identifier >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (35.06021pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10 letter >
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 13--14
+\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.39021pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10 digit >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 13--14
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (35.06021pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10 letter >
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 13--14
+\OMS/cmsy/m/n/10 g$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 $
+      <index> \rightarrow <identifier>"["(<identifier> | <intLiteral>)"]"$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 15--16
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (53.35721pt too wide) in paragraph at lines 15--16
+\OML/cmm/m/it/10 index >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 15--16
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 "["(\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 15--16
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 15--16
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 15--16
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 )"]"$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 $
+      <slice> \rightarrow <identifier>"["[(<identifier> | <intLiteral>)]:[(<...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 17--18
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (48.63036pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 slice >\OMS/cmsy/m/n/10 !\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (27.2223pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 "["[(\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--18
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (12.22218pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 )] :
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 [(\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--18
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (12.22226pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 )][:
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.78339pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 identifier >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--18
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (55.38802pt too wide) in paragraph at lines 17--18
+\OML/cmm/m/it/10 intLiteral >
+ []
+
+
+Overfull \hbox (19.4445pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 )]"]"$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 $
+      <letter> \rightarrow a | b | c | d | e | f | g | h | i | j | k | l | m...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 19--20
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (45.06023pt too wide) in paragraph at lines 19--20
+\OML/cmm/m/it/10 letter >\OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (203.9081pt too wide) in paragraph at lines 19--20
+\OML/cmm/m/it/10 a\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 b\OMS/cmsy/m/n/10 j\OML/cm
+m/m/it/10 c\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d\OMS/cmsy/m/n/10 j\OML/cmm/m/it/
+10 e\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 f\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 g\OM
+S/cmsy/m/n/10 j\OML/cmm/m/it/10 h\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 i\OMS/cmsy/
+m/n/10 j\OML/cmm/m/it/10 j\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 k\OMS/cmsy/m/n/10 
+j\OML/cmm/m/it/10 l\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 m\OMS/cmsy/m/n/10 j\OML/c
+mm/m/it/10 n\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 o\OMS/cmsy/m/n/10 j\OML/cmm/m/it
+/10 p\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 q\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 r\O
+MS/cmsy/m/n/10 j\OML/cmm/m/it/10 s\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 t\OMS/cmsy
+/m/n/10 j\OML/cmm/m/it/10 u\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 v\OMS/cmsy/m/n/10
+ j\OML/cmm/m/it/10 w\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x\OMS/cmsy/m/n/10 j\OML/
+cmm/m/it/10 y\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 z$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 $
+      | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (301.289pt too wide) in paragraph at lines 21--22
+[]$\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 A\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 B\OMS
+/cmsy/m/n/10 j\OML/cmm/m/it/10 C\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 D\OMS/cmsy/m
+/n/10 j\OML/cmm/m/it/10 E\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 F\OMS/cmsy/m/n/10 j
+\OML/cmm/m/it/10 G\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 H\OMS/cmsy/m/n/10 j\OML/cm
+m/m/it/10 I\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 J\OMS/cmsy/m/n/10 j\OML/cmm/m/it/
+10 K\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 L\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 M\OM
+S/cmsy/m/n/10 j\OML/cmm/m/it/10 N\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 O\OMS/cmsy/
+m/n/10 j\OML/cmm/m/it/10 P\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Q\OMS/cmsy/m/n/10 
+j\OML/cmm/m/it/10 R\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 S\OMS/cmsy/m/n/10 j\OML/c
+mm/m/it/10 T\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 U\OMS/cmsy/m/n/10 j\OML/cmm/m/it
+/10 V\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 W\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 X\O
+MS/cmsy/m/n/10 j\OML/cmm/m/it/10 Y\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Z$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 $
+      <digit> \rightarrow 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 23--24
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (41.39023pt too wide) in paragraph at lines 23--24
+\OML/cmm/m/it/10 digit >\OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (75.00023pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OT1/cmr/
+m/n/10 2\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 3\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 4\
+OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 5\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 6\OMS/cmsy/
+m/n/10 j\OT1/cmr/m/n/10 7\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 8\OMS/cmsy/m/n/10 j\
+OT1/cmr/m/n/10 9$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 $
+      <term>$ $\rightarrow$ $<term>$ $<addsub>$ $<expr>$ $|$ $<mult>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 25--26
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (32.3924pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 term >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 25--26
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (32.3924pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 term >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (40.95486pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 addsub >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 expr >$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 25--26
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.85191pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 mult >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 $
+      <mult>$ $\rightarrow$ $<mult>$ $<multdiv>$ $<expr>$ $|$ $<pow>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 27--28
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.85191pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 mult >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 27--28
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.85191pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 mult >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (45.70792pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 multdiv >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 expr >$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 27--28
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (27.86224pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 pow >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 $
+      <pow>$ $\rightarrow$ $<expr>$ ** $<pow>$ $|$ $<comparison>$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no * in font nullfont!
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 29--30
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (27.86224pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 pow >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 29--30
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 expr >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (27.86224pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 pow >$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 29--30
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (62.59915pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 comparison >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 $
+      <comparison>$ $\rightarrow$ $<comparison>$ $<comparisonOp>$ $<expr> | ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 31--32
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (62.59915pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 comparison >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 31--32
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (62.59915pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 comparison >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (75.53595pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 comparisonOp >$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 expr >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 31--32
+\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (73.43365pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 parenthesized >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 $
+      <parenthezised> \rightarrow "("<expr>")"$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 33--34
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (83.43367pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 parenthezised >\OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (24.44444pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 "(" \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (30.74767pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 expr >
+ []
+
+
+Overfull \hbox (13.88893pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 ")"$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 $
+      <addsub>$ $\rightarrow$ $+ | -$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 $
+      <addsub>$ $\rightarrow$ $+ | -$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 35--36
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (40.95486pt too wide) in paragraph at lines 35--36
+\OML/cmm/m/it/10 addsub >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 35--36
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (18.33339pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 +\OMS/cmsy/m/n/10 j^^@$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 $
+      <multdiv>$ $\rightarrow$ $* | $ / $ | $ // $ | \%$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 37--38
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (45.70792pt too wide) in paragraph at lines 37--38
+\OML/cmm/m/it/10 multdiv >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 37--38
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 37--38
+\OMS/cmsy/m/n/10 ^^Cj$
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 37--38
+\OMS/cmsy/m/n/10 j$
+ []
+
+
+Overfull \hbox (11.11115pt too wide) in paragraph at lines 37--38
+\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 %$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 $
+      <comparisonOp>$ $\rightarrow$ $== | != | "<" | "<=" | ">" | ">="$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 39--40
+[]$\OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (75.53595pt too wide) in paragraph at lines 39--40
+\OML/cmm/m/it/10 comparisonOp >$
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 39--40
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (15.5556pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 ==
+ []
+
+
+Overfull \hbox (16.11108pt too wide) in paragraph at lines 39--40
+\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 ! =
+ []
+
+
+Overfull \hbox (18.33331pt too wide) in paragraph at lines 39--40
+\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (31.11113pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 "\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 <\OT1/cmr
+/m/n/10 =
+ []
+
+
+Overfull \hbox (23.33333pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 "\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (31.11113pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 "\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >\OT1/cmr
+/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 "$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 $
+      <functionCall> \rightarrow <identifier>"("{(<identifier>|<literal>|<fu...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> "Homework #2.tex"
+                     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 495025
+ 202 string characters out of 6181515
+ 50959 words of memory out of 5000000
+ 3322 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,5n,12p,155b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
